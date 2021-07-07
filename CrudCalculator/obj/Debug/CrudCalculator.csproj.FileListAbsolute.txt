@@ -1,0 +1,7 @@
+D:\Thiago\Estudos\c#\Projects\CaculatorApiCorrect\CrudCalculator\obj\Debug\CrudCalculator.csproj.AssemblyReference.cache
+D:\Thiago\Estudos\c#\Projects\CaculatorApiCorrect\CrudCalculator\obj\Debug\CrudCalculator.csproj.CoreCompileInputs.cache
+D:\Thiago\Estudos\c#\Projects\CaculatorApiCorrect\CrudCalculator\bin\Debug\CrudCalculator.dll.config
+D:\Thiago\Estudos\c#\Projects\CaculatorApiCorrect\CrudCalculator\bin\Debug\CrudCalculator.dll
+D:\Thiago\Estudos\c#\Projects\CaculatorApiCorrect\CrudCalculator\bin\Debug\CrudCalculator.pdb
+D:\Thiago\Estudos\c#\Projects\CaculatorApiCorrect\CrudCalculator\obj\Debug\CrudCalculator.dll
+D:\Thiago\Estudos\c#\Projects\CaculatorApiCorrect\CrudCalculator\obj\Debug\CrudCalculator.pdb
